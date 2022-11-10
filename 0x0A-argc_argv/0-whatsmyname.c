@@ -5,7 +5,7 @@
  * @argc: argument count
  * @argv: arguments
  *
-[2;2R[>77;30500;0c]10;rgb:bfbf/bfbf/bfbf]11;rgb:0000/0000/0000 * Return: 0
+ * Return: 0
  */
 int main(int argc, char **argv)
 {
